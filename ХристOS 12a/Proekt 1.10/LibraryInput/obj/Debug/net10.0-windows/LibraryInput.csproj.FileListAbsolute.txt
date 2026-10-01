@@ -1,0 +1,16 @@
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\bin\Debug\net10.0-windows\LibraryInput.exe
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\bin\Debug\net10.0-windows\LibraryInput.deps.json
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\bin\Debug\net10.0-windows\LibraryInput.runtimeconfig.json
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\bin\Debug\net10.0-windows\LibraryInput.dll
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\bin\Debug\net10.0-windows\LibraryInput.pdb
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\obj\Debug\net10.0-windows\LibraryInput.Form1.resources
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\obj\Debug\net10.0-windows\LibraryInput.csproj.GenerateResource.cache
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\obj\Debug\net10.0-windows\LibraryInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\obj\Debug\net10.0-windows\LibraryInput.AssemblyInfoInputs.cache
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\obj\Debug\net10.0-windows\LibraryInput.AssemblyInfo.cs
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\obj\Debug\net10.0-windows\LibraryInput.csproj.CoreCompileInputs.cache
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\obj\Debug\net10.0-windows\LibraryInput.dll
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\obj\Debug\net10.0-windows\refint\LibraryInput.dll
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\obj\Debug\net10.0-windows\LibraryInput.pdb
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\obj\Debug\net10.0-windows\LibraryInput.genruntimeconfig.cache
+C:\Users\1212-2\Music\ХристOS 12a\Proekt 1.10\LibraryInput\obj\Debug\net10.0-windows\ref\LibraryInput.dll
