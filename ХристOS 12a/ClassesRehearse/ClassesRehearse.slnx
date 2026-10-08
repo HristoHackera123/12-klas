@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Shape/Shape.csproj" />
+  <Project Path="Student/Student.csproj" />
+  <Project Path="Vehicle/Vehicle.csproj" />
+</Solution>

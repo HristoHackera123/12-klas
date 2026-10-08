@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{897EB94C-51B2-4951-8FD4-9B44F3301E0A}|Shape\\Shape.csproj|c:\\users\\1212-2\\music\\\u0445\u0440\u0438\u0441\u0442os 12a\\classesrehearse\\shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897EB94C-51B2-4951-8FD4-9B44F3301E0A}|Shape\\Shape.csproj|solutionrelative:shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897EB94C-51B2-4951-8FD4-9B44F3301E0A}|Shape\\Shape.csproj|c:\\users\\1212-2\\music\\\u0445\u0440\u0438\u0441\u0442os 12a\\classesrehearse\\shape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897EB94C-51B2-4951-8FD4-9B44F3301E0A}|Shape\\Shape.csproj|solutionrelative:shape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC9EA68-1F82-483A-A43A-B09FF790FAF9}|Student\\Student.csproj|c:\\users\\1212-2\\music\\\u0445\u0440\u0438\u0441\u0442os 12a\\classesrehearse\\student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC9EA68-1F82-483A-A43A-B09FF790FAF9}|Student\\Student.csproj|solutionrelative:student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897EB94C-51B2-4951-8FD4-9B44F3301E0A}|Shape\\Shape.csproj|c:\\users\\1212-2\\music\\\u0445\u0440\u0438\u0441\u0442os 12a\\classesrehearse\\shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897EB94C-51B2-4951-8FD4-9B44F3301E0A}|Shape\\Shape.csproj|solutionrelative:shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07359890-E1F7-4DC9-ACBD-94BA800712DA}|Vehicle\\Vehicle.csproj|c:\\users\\1212-2\\music\\\u0445\u0440\u0438\u0441\u0442os 12a\\classesrehearse\\vehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07359890-E1F7-4DC9-ACBD-94BA800712DA}|Vehicle\\Vehicle.csproj|solutionrelative:vehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07359890-E1F7-4DC9-ACBD-94BA800712DA}|Vehicle\\Vehicle.csproj|c:\\users\\1212-2\\music\\\u0445\u0440\u0438\u0441\u0442os 12a\\classesrehearse\\vehicle\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07359890-E1F7-4DC9-ACBD-94BA800712DA}|Vehicle\\Vehicle.csproj|solutionrelative:vehicle\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07359890-E1F7-4DC9-ACBD-94BA800712DA}|Vehicle\\Vehicle.csproj|c:\\users\\1212-2\\music\\\u0445\u0440\u0438\u0441\u0442os 12a\\classesrehearse\\vehicle\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07359890-E1F7-4DC9-ACBD-94BA800712DA}|Vehicle\\Vehicle.csproj|solutionrelative:vehicle\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07359890-E1F7-4DC9-ACBD-94BA800712DA}|Vehicle\\Vehicle.csproj|c:\\users\\1212-2\\music\\\u0445\u0440\u0438\u0441\u0442os 12a\\classesrehearse\\vehicle\\vehicle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07359890-E1F7-4DC9-ACBD-94BA800712DA}|Vehicle\\Vehicle.csproj|solutionrelative:vehicle\\vehicle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC9EA68-1F82-483A-A43A-B09FF790FAF9}|Student\\Student.csproj|c:\\users\\1212-2\\music\\\u0445\u0440\u0438\u0441\u0442os 12a\\classesrehearse\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC9EA68-1F82-483A-A43A-B09FF790FAF9}|Student\\Student.csproj|solutionrelative:student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Shape\\Circle.cs",
+              "RelativeDocumentMoniker": "Shape\\Circle.cs",
+              "ToolTip": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Shape\\Circle.cs",
+              "RelativeToolTip": "Shape\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:28:36.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Shape\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape\\Shape.cs",
+              "ToolTip": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Shape\\Shape.cs",
+              "RelativeToolTip": "Shape\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:27:50.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Shape\\Program.cs",
+              "RelativeDocumentMoniker": "Shape\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Shape\\Program.cs",
+              "RelativeToolTip": "Shape\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:27:39.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Vehicle\\Bicycle.cs",
+              "RelativeDocumentMoniker": "Vehicle\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Vehicle\\Bicycle.cs",
+              "RelativeToolTip": "Vehicle\\Bicycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:24:58.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle",
+              "DocumentMoniker": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Vehicle\\Vehicle.csproj",
+              "RelativeDocumentMoniker": "Vehicle\\Vehicle.csproj",
+              "ToolTip": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Vehicle\\Vehicle.csproj",
+              "RelativeToolTip": "Vehicle\\Vehicle.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T07:24:45.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Vehicle\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Vehicle\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:23:24.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Vehicle\\Program.cs",
+              "RelativeDocumentMoniker": "Vehicle\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Vehicle\\Program.cs",
+              "RelativeToolTip": "Vehicle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:23:14.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Student\\Program.cs",
+              "RelativeDocumentMoniker": "Student\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Student\\Program.cs",
+              "RelativeToolTip": "Student\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:17:31.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Student\\Student.cs",
+              "RelativeDocumentMoniker": "Student\\Student.cs",
+              "ToolTip": "C:\\Users\\1212-2\\Music\\\u0425\u0440\u0438\u0441\u0442OS 12a\\ClassesRehearse\\Student\\Student.cs",
+              "RelativeToolTip": "Student\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:18:11.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

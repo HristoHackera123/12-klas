@@ -1,0 +1,15 @@
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\bin\Debug\net10.0\Shape.exe
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\bin\Debug\net10.0\Shape.deps.json
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\bin\Debug\net10.0\Shape.runtimeconfig.json
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\bin\Debug\net10.0\Shape.dll
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\bin\Debug\net10.0\Shape.pdb
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\obj\Debug\net10.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\obj\Debug\net10.0\Shape.AssemblyInfoInputs.cache
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\obj\Debug\net10.0\Shape.AssemblyInfo.cs
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\obj\Debug\net10.0\Shape.csproj.CoreCompileInputs.cache
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\obj\Debug\net10.0\Shape.sourcelink.json
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\obj\Debug\net10.0\Shape.dll
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\obj\Debug\net10.0\refint\Shape.dll
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\obj\Debug\net10.0\Shape.pdb
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\obj\Debug\net10.0\Shape.genruntimeconfig.cache
+C:\Users\1212-2\Music\ХристOS 12a\ClassesRehearse\Shape\obj\Debug\net10.0\ref\Shape.dll
