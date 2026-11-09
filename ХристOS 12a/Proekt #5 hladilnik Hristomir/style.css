@@ -1,0 +1,143 @@
+﻿:root {
+    --border-color: #296b6b;
+    --bg-gradient: linear-gradient(312deg,rgba(2, 0, 36, 1) 0%, rgba(12, 26, 43, 1) 35%, rgba(13, 45, 64, 1) 64%, rgba(10, 49, 70, 1) 79%, rgba(10, 83, 99, 1) 94%, rgba(0, 118, 150, 1) 100%)
+}
+
+html {
+    font-family: 'Times New Roman';
+    color: white;
+    background: var(--bg-gradient);
+    overflow-y: scroll;
+    height: 150%;
+    width: 100%;
+    z-index: -1;
+}
+
+@media (max-height: 900px) {
+    html {
+        height: 200%;
+    }
+}
+
+@media (max-height: 700px) {
+    html {
+        height: 250%;
+    }
+}
+
+@media (max-height: 500px) {
+    html {
+        height: 300%;
+    }
+}
+
+nav {
+    text-align: center;
+    flex-wrap: wrap;
+    border-bottom: double var(--border-color);
+    padding-bottom: 2%;
+    top: 0px;
+    background: rgba(13, 45, 64, 1);
+    position: sticky;
+    z-index: 10000;
+}
+
+footer {
+    border-top: double var(--border-color);
+    position: sticky;
+    font-size: 105%;
+}
+
+hr {
+    color: var(--border-color);
+}
+
+a {
+    color: #d0d1ff;
+    text-decoration: none;
+}
+
+    a:visited {
+        color: #7781a9d1;
+    }
+
+nav a {
+    display: inline-block;
+    padding: 0.3%;
+    border: 1px solid;
+}
+
+thead {
+    font-weight: 700;
+}
+
+dt {
+    font-size: 120%;
+    padding: 1%;
+    font-weight: 700;
+}
+
+dd, li {
+    padding-block: 0.5%;
+}
+
+.pageTitle {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 125%;
+    margin-bottom: 7.5%;
+}
+
+.content {
+    font-size: 115%;
+    list-style-type: square;
+}
+
+.indent {
+    padding-left: 5%;
+}
+
+.table {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 5%;
+}
+
+    .table p {
+        font-size: 110%;
+        width: 12%;
+        text-align: center;
+        padding-left: 10%;
+    }
+
+.sameRow-image {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 5%;
+}
+
+    .sameRow-image p {
+        font-size: 110%;
+        width: 22%;
+        text-align: center;
+        padding-right: 10%;
+    }
+
+.spaceBetween {
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+.problemTable {
+    font-size: 140%;
+    display: flex;
+    justify-content: center;
+}
+
+    .problemTable td {
+        border-bottom: dotted;
+        border-block-color: var(--border-color);
+    }
