@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Flags</title>
+    <style>
+
+        body{
+            display:flex;
+        }
+        .flag {
+            margin-inline: 10px;
+            border: 5px solid black;
+        }
+
+        #japanese {
+            height: 200px;
+            width: 333px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: white;
+        }
+
+            #japanese div {
+                height: 100px;
+                width: 100px;
+                background-color: red;
+                border-radius: 200px 200px;
+            }
+
+        #bulgarian {
+            height: 200px;
+            width: 320px;
+            display: grid;
+        }
+
+            #bulgarian div:first-child {
+                background-color: white;
+            }
+
+            #bulgarian div:nth-child(2) {
+                background-color: green;
+            }
+
+            #bulgarian div:nth-child(3) {
+                background-color: red;
+            }
+    </style>
+</head>
+<body>
+    <div id="japanese" class="flag">
+        <div>
+
+        </div>
+    </div>
+
+    <div id="bulgarian" class="flag">
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+    </div>
+
+</body>
+</html>

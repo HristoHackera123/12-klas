@@ -2,12 +2,46 @@
 <html> 
 <head>
     <title>HTML-ЪТ</title>
+    <style>
+        nav{
+            position:sticky;
+            top:0px;
+            left:0px;
+            right:0px;
+            z-index:100000;
+            background-color:AccentColorText;
+            border: solid;
+            margin-bottom: 5%;
+        }
+        nav h1{
+            font-size:190%;
+            font-family:'Times New Roman';
+            text-align:center;
+        }
+            nav p {
+                text-align: justify-all;
+            }
+        nav a{
+            font-size: 100%;
+
+        }
+    </style>
+    <script>
+        let htmls;
+    </script>
 </head>
 <body>
+    <nav>
+        <h1>Навигация</h1>
+        <p>
+            <a href="HTML.html"> Home page </a>
+            <a href="Tablici.html"> Tablici </a>
+        </p>
+    </nav>
     <h1> Най-голяма </h1>
     <p><a href="HTML.html" target = "_blank"> a</a></p>
     <p><b>b</b></p>
-    <table border="10">
+    <table border="1">
          <caption>Класът</caption>
         <thead style="background-color:aqua">
             <tr>

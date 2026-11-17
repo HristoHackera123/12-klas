@@ -1,0 +1,42 @@
+﻿body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-list {
+    background-color: #f7f381;
+    padding: 2% 8%;
+    width: 60%;
+    font-size: 170%;
+    border-top:  dotted #ff0000;
+    border-radius: 600px 600px;
+    box-shadow: 0 0 10px 2px #333333;
+    margin:10%;
+}
+
+    .my-list h1, .my-list p {
+        text-align: center;
+    }
+
+#wrapper-run {
+    width: 60%;
+    background-color: #5bc0de;
+    border: 1px solid #000000;
+    margin: 10%;
+}
+
+    #wrapper-run h1::before {
+        content: "This is before";
+    }
+
+    #wrapper-run h1::after {
+        content: "This is after";
+    }
+
+#wrapper-reverse {
+    background-color: #dddddd;
+    color: #95191a;
+    width: 60%;
+    border: 1px solid #000000;
+}

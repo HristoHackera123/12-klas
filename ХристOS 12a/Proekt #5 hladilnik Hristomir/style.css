@@ -70,6 +70,9 @@ nav a {
 thead {
     font-weight: 700;
 }
+img{
+    max-block-size: fit-content;
+}
 
 dt {
     font-size: 120%;
